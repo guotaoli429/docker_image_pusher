@@ -1,2 +1,6 @@
-dinkydocker/dinky-standalone-server:1.2.0-flink1.16
-flink:1.16-scala_2.12-java8
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
