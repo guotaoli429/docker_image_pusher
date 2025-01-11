@@ -1,1 +1,2 @@
-apache/seatunnel
+heartexlabs/label-studio
+pgautoupgrade/pgautoupgrade:13-alpine
