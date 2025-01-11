@@ -1,1 +1,1 @@
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:latest
+apache/streampark:2.2.0
