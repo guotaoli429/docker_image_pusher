@@ -1,1 +1,6 @@
-ollama/ollama:latest
+ghcr.io/canner/wren-bootstrap:0.1.4
+ghcr.io/canner/wren-engine:0.7.0
+ghcr.io/canner/wren-engine-ibis:0.7.0
+ghcr.io/canner/wren-ai-service:0.7.0
+qdrant/qdrant:v1.7.4
+ghcr.io/canner/wren-ui:0.10.0
